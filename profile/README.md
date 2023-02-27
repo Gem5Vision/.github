@@ -1,4 +1,4 @@
-# Requirements Doc v1.5
+# gem5 Vision Requirements Doc
 
 ## Team 11 (The Spidermen)
 
