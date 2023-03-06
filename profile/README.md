@@ -55,3 +55,4 @@ This is still a work-in-progress, but you can find the following documentation:
 1. [Complete Requirements document](https://github.com/Gem5Vision/gem5-resources-website/blob/static-website/REQUIREMENTS.md)
 2. [JSON Schema](https://github.com/Gem5Vision/gem5-resources-website/blob/static-website/docs/JSONSchema.json)
 3. [MongoDB Schema](https://github.com/Gem5Vision/gem5-resources-website/blob/static-website/docs/MongoDBSchema.json)
+4. [API Documentation](https://github.com/Gem5Vision/gem5-resources-website/blob/static-website/pages/api/README.md)
